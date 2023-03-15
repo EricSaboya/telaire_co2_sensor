@@ -20,7 +20,8 @@ A few things to note ...
 
 ### About Telaire T6713 
 <img src="https://media.digikey.com/Photos/Amphenol%20Photos/T6713-5K.jpg" width="100">
-_This is the sensor!_
+
+__This is the sensor!__
 
 Information about the Telaire CO2 sensor (including how to wire it up) can be found on the [Amphenol website](https://www.amphenol-sensors.com/en/telaire/co2/525-co2-sensor-modules/3399-t6713), which includes links to the [datasheet](https://f.hubspotusercontent40.net/hubfs/9035299/Documents/AAS-920-634G-Telaire-T6713-Series-011321-web.pdf) and [manual](https://www.amphenol-sensors.com/hubfs/Documents/AAS-916-142A-Telaire-T67xx-CO2-Sensor-022719-web.pdf)
 
